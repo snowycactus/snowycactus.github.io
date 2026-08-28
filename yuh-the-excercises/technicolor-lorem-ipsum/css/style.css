@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+
+#pink-background {
+    background-color: #f06a6a;
+}
+#yellow-background {
+    background-color: #f0dc6a;
+}#green-background {
+    background-color: #b1f06a;
+}
+
+.highlighter {
+    background-color: rgb(230, 230, 167);
+}
+.highlighter2 {
+    background-color: rgb(167, 230, 195);
+}
+.highlighter3 {
+    background-color: rgb(167, 230, 230);
+}
+
+div p {
+    background-color: rgb(132, 243, 132);
+}
