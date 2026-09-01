@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#s1 {
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration: line-through;
+}
+
+#s2 {
+    font-style: italic;
+}
+
+#s3 {
+    font-size: 7px;
+}
+
+#yuh {
+     text-align: center;
+}
