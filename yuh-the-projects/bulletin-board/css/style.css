@@ -16,6 +16,7 @@
     margin: 24px;
     padding: 24px;
     vertical-align: top;
+    box-shadow: 6px 4px 10px #00000085;
 }
 
 .post-it-2 {
@@ -27,6 +28,7 @@
     margin: 24px;
     padding: 24px;
     vertical-align: middle;
+    box-shadow: 6px 4px 10px #00000085;
 }
 
 .post-it-3 {
@@ -38,6 +40,7 @@
     margin: 24px;
     padding: 15px;
     vertical-align: top;
+    box-shadow: 6px 4px 10px #00000085;
 }
 
 .post-it-4 {
@@ -49,6 +52,7 @@
     margin: 24px;
     padding: 10px;
     vertical-align: top;
+    box-shadow: 6px 4px 10px #00000085;
 }
 
 .post-it-5 {
@@ -60,6 +64,7 @@
     margin: 24px;
     padding: 10px;
     vertical-align: top;
+    box-shadow: 6px 4px 10px #00000085;
 }
 
 .post-it-6 {
@@ -71,4 +76,5 @@
     margin: 24px;
     padding: 10px;
     vertical-align: top;
+    box-shadow: 6px 4px 10px #00000085;
 }
