@@ -1,0 +1,74 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Bulletin Board assignment.
+
+    Good luck, and have fun!
+*/
+
+.post-it-1 {
+    background-color: lightyellow;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 24px;
+    padding: 24px;
+    vertical-align: top;
+}
+
+.post-it-2 {
+    background-color: lightskyblue;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 24px;
+    padding: 24px;
+    vertical-align: middle;
+}
+
+.post-it-3 {
+    background-color: lightgreen;
+    display: inline-block;
+    width: 205px;
+    height: 205px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 24px;
+    padding: 15px;
+    vertical-align: top;
+}
+
+.post-it-4 {
+    background-color: lightsalmon;
+    display: inline-block;
+    width: 205px;
+    height: 205px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 24px;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.post-it-5 {
+    background-color: plum;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 24px;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.post-it-6 {
+    background-color: lightpink;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 24px;
+    padding: 10px;
+    vertical-align: top;
+}
