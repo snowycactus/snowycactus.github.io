@@ -7,14 +7,14 @@
     Good luck, and have fun!
 */
 
-.post-it-1 {
+.post-it {
     background-color: lightyellow;
     display: inline-block;
     width: 200px;
     height: 200px;
     font-family: 'Courier New', Courier, monospace;
     margin: 24px;
-    padding: 24px;
+    padding: 10px;
     vertical-align: top;
     box-shadow: 6px 4px 10px #00000085;
 }
