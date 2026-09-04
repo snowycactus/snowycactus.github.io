@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+div {
+    margin: 20px 40px;
+    border-top: 6px ridge green;
+    border-left: 5px dotted purple;
+    border-right: 20px dashed red;
+    border-bottom: 8px ridge pink;
+    padding: 15px;
+    background-color: lightcyan;
+    font-family: 'Times New Roman', Times, serif;
+}
