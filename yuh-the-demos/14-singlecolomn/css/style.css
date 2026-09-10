@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: serif;
+}
+
+.single-colomn {
+    background-color: rgb(177, 235, 177);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 24px;
+}
+
+.button {
+    text-decoration: none;
+    color: black;
+    display: inline-block; /* VERY IMPORTANT */
+}
+
+.primary {
+    background-color: green;
+    color: lightgreen;
+    padding: 12px;
+    border-radius: 16px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 12px;
+}
+
+.secondary {
+    color: green;
+    border: 3px solid green;
+    padding: 12px;
+    border-radius: 12px;
+    font-weight: bold;
+}

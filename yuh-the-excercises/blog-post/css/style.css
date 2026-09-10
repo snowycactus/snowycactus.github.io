@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: serif;
+}
+
+.yuhblog {
+    background-color: rgb(37, 87, 60);
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 24px;
+    color: whitesmoke;
+}
