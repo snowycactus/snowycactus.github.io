@@ -6,7 +6,7 @@
 
 body {
     margin: 0px;
-    font-family:sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
@@ -18,7 +18,7 @@ h1 {
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
-    padding: 24px;
+    text-align: center;
 }
 
 .button {
@@ -35,8 +35,7 @@ h1 {
     font-size: 20px;
     margin-left: auto;
     margin-right: auto;
-    font-family: "Pixelify Sans", sans-serif;
-    
+    font-family: "Pixelify Sans", sans-serif; 
 }
 
 .secondary {
@@ -55,32 +54,16 @@ h1 {
 .darkcontainer {
     background-color: rgb(63, 65, 63);
     color: rgb(255, 254, 252);
-    font-family: "Pixelify Sans", sans-serif;
+    padding: 48px 0px;
 }
 
 img {
     margin-left: auto;
     margin-right: auto;
     width: 700px;
-}
-
-p {
-    margin-left: auto;
-    margin-right: auto;
-    width: 700px;
-    text-align: center;
-}
-
-h3 {
-    margin-left: auto;
-    margin-right: auto;
-    width: 700px;
-    text-align: center;
+    padding: 20px;
 }
 
 h1 {
-    margin-left: auto;
-    margin-right: auto;
-    width: 700px;
-    text-align: center;
+    padding: 50px 60px;
 }
