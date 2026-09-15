@@ -4,5 +4,41 @@
 
 body {
     margin: 0px;
-    font-family: sans-serif;
+    font-family: serif;
+}
+
+/* FLEXBOX CONTAINER */
+#navbar {
+    background-color: lightgreen;
+    display: flex;
+    justify-content: left;
+    /* OR CENTER OR LEFT, only works on dis :3 */
+    align-items: center;
+}
+
+#navbar a {
+    text-decoration: none;
+    padding: 24px;
+    color: green;
+}
+
+#navbar img {
+    width: 90px;
+}
+
+#logo-container {
+    margin-right: auto;
+}
+
+#navbar .cta-button {
+    background-color: green;
+    color: white;
+    border-radius: 36px;
+    padding: 16px 24px;
+    font-size: 20px;
+    font-weight: bold;
+    min-width: 150px;
+    text-align: center;
+    margin-right: 24px;
+    margin-left: 12px;
 }
