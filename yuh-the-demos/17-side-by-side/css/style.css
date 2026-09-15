@@ -29,3 +29,16 @@ img {
 .media-and-text .right-side {
     flex: 2;
 }
+
+.card {
+    background-color: pink;
+    border: 5px solid rgb(133, 73, 83);
+    text-align: center;
+    margin: 36px 1px;
+    flex: 1;
+}
+
+.card-container {
+    display: flex;
+    gap: 24px;
+}
