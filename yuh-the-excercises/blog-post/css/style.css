@@ -9,9 +9,10 @@ body {
 
 .yuhblog {
     background-color: pink;
-    max-width: 450px;
+    border-radius: 5px;
+    max-width: 600px;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 1px;
     padding: 24px;
     color: rgb(163, 39, 60);
 }
@@ -19,14 +20,14 @@ body {
 #two-columns {
     display: flex;
     max-width: 800px;
-    margin: 80px auto;
+    margin: 50px auto;
 }
 
 #sidebar-column {
     /* background-color: lightgreen; */
     width: 250px;
     order: 2;
-    padding: 18px;
+    padding: 0px 18px;
 }
 
 #sticky {
@@ -38,6 +39,7 @@ body {
     /* background-color: lightblue; */
     flex: 1;
     order: 1;
+    align-items: center;
 }
 
 #sidebar-column h2 {
@@ -46,6 +48,7 @@ body {
     font-size: 18px;
     color: rgb(163, 39, 60);
     margin: 0px;
+    border-radius: 5px 5px 0px 0px;
 }
 
 #sidebar-column ul {
@@ -75,4 +78,6 @@ body {
 img {
     border-radius: 10px;
     border: 2px solid rgb(163, 39, 60);
+    width: 550px;
+
 }
