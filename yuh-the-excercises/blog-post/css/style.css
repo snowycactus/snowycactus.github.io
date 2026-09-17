@@ -70,7 +70,6 @@ body {
     
 }
 
-/* dis is a psudeo-class and you can choose stuff without messing everything up */
 #sidebar-column li:last-child {
     border-bottom: 0px;
 }
