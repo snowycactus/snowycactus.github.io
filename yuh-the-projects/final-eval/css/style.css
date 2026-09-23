@@ -22,6 +22,8 @@ img {
     width: 240px;
     border-radius: 20px;
     border: 4px solid rgb(197, 95, 95);
+    background-color:rgb(226, 110, 110);
+    padding-bottom: 20px
 }
 
 #images {
