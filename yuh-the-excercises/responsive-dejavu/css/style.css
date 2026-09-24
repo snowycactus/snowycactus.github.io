@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: serif;
+}
+
+#navbar {
+    background: linear-gradient(to bottom, #2b1d5f, rgb(158, 21, 78));
+    display: flex;
+    align-items: center;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: white;
+    padding: 24px;
+}
+
+#navbar #logo {
+    margin-right: auto;
+}
+
+#navbar #logo img {
+    width: 80px;
+    border-radius: 100%;
+}
+
+#hero-4 {
+    background-image: url("../images/4e6ff379fe5782fc1767bb65aa5e923b.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero-4 .hero-content {
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+
+#hero-4 h2 {
+    font-size: 72px;
+    margin-bottom: 36px;
+}
+
+#hero-4 h4 {
+    font-size: 24px;
+    margin: 0px;
+}
+
+* {
+    box-sizing: border-box
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#layout {
+    max-width: 800px;
+    margin: 48px auto;
+    text-align: center;
+}
+
+@media screen and (max-width: 640px) {
+    body {
+        background-color: lightgreen;
+    }
+
+    #single-column h1 {
+        font-size: 40px;
+    }
+
+    #basic-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    body {
+        background-color: coral;
+    }
+
+    #nav {
+        flex-direction: column;
+        align-items: center;
+    }
+}
